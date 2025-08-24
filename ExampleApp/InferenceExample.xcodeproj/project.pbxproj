@@ -502,8 +502,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "git@github.com:paescebu/SwiftTasksGenAI.git";
 			requirement = {
-				branch = 0.10.24;
-				kind = branch;
+				kind = upToNextMinorVersion;
+				minimumVersion = 0.10.24;
 			};
 		};
 		AA673F8E2DAD96C90066441A /* XCRemoteSwiftPackageReference "LaTeXSwiftUI" */ = {
