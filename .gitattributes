@@ -1,0 +1,2 @@
+Dependencies/MediaPipeTasksGenAIC.xcframework/ios-arm64/MediaPipeTasksGenAIC.framework/MediaPipeTasksGenAIC filter=lfs diff=lfs merge=lfs -text
+Dependencies/MediaPipeTasksGenAIC.xcframework/ios-arm64_x86_64-simulator/MediaPipeTasksGenAIC.framework/MediaPipeTasksGenAIC filter=lfs diff=lfs merge=lfs -text
